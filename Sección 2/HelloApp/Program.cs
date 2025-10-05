@@ -1,7 +1,25 @@
-﻿class Program
+﻿partial class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");   
+        //Variables();
+        //DataTypes();
+        //ShowNumericTypes();
+        //ShowStringType();
+        //SalesReport();
+        //SalaryCalculator();
+
+        //ShowTime();
+        //DaysOfLife();
+        //DaysUntilNextBirthday();
+
+        //TypeDifference();
+        //HandleNullables();
+        //Operators();
+        //Arrays();
+        //InventoryManager();
+        //ListDictionary();
+        //DataStructures();
+        Generics();
     }
 }
