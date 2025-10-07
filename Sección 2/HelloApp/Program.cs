@@ -36,7 +36,25 @@
         //PrintMultiplicationTable(tableLimit: 15, number: 4); // we can send unordered parameters
         //PrintFactorialTable(6);
         //Tuples();
-        AnonymousFunctions();
+        //AnonymousFunctions();
+        #endregion
+
+        #region Section4
+        //TestingClass();
+        //Properties();
+
+        //Methods();
+        // Forcing garbage collection to see destructors execution
+        //GC.Collect(); // this practice is not recommended, we do it for the sake of the exercise
+        // executing finalizers
+        //GC.WaitForPendingFinalizers();
+
+        //ProductSalesDemo();
+        //BusFleet();
+        //Inheritance();
+        //AbstractClassExamples();
+        //Visibility();
+        ShowEmployees();
         #endregion
     }
 }
