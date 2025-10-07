@@ -54,7 +54,15 @@
         //Inheritance();
         //AbstractClassExamples();
         //Visibility();
-        ShowEmployees();
+        //ShowEmployees();
+        #endregion
+
+        #region Section5
+        //HandleException();
+        //Collections();
+        //Linq();
+        //AdvancedLinq.Program.AdvancedLINQ();
+        SalesAnalysis();
         #endregion
     }
 }
