@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "05dc700",
+    "Description": "Limpiar el cuarto",
+    "Completed": true,
+    "CreatedAt": "2024-04-15T00:00:00",
+    "ModifiedAt": "2025-03-10T17:17:56.371587-06:00",
+    "Deleted": true
+  },
+  {
+    "Id": "f73d8fd",
+    "Description": "Comer saludable",
+    "Completed": false,
+    "CreatedAt": "2024-01-15T00:00:00",
+    "ModifiedAt": "2024-01-15T00:00:00",
+    "Deleted": true
+  },
+  {
+    "Id": "3f6c921",
+    "Description": "Estudiar C#",
+    "Completed": false,
+    "CreatedAt": "2025-03-11T13:20:53.051415-06:00",
+    "ModifiedAt": "2025-03-12T11:16:17.74727-06:00",
+    "Deleted": false
+  },
+  {
+    "Id": "eb158bc",
+    "Description": "Pintar el cuarto",
+    "Completed": false,
+    "CreatedAt": "2025-10-08T00:08:18.4953266-06:00",
+    "ModifiedAt": "2025-10-08T00:08:18.4953292-06:00",
+    "Deleted": false
+  },
+  {
+    "Id": "d7f9c6d",
+    "Description": "Limpieza en la calleee",
+    "Completed": false,
+    "CreatedAt": "2025-10-08T01:07:09.0628758-06:00",
+    "ModifiedAt": "2025-10-08T01:07:09.0628787-06:00",
+    "Deleted": false
+  }
+]
