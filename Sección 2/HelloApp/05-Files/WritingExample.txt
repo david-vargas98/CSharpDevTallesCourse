@@ -1,0 +1,4 @@
+Instead of the other line, I want this one to be the first line!
+Current time: 19:37:38
+Instead of the other line, I want this one to be the first line!
+Current time: 19:39:09
